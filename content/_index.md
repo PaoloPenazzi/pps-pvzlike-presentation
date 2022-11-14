@@ -11,3 +11,9 @@ aliases = [
 
 # pps-PvZlike
 ## Project presentation
+
+---
+
+## Screenshot of the original game
+
+{{< image src="assets/pvz.png" h="70" >}}
