@@ -1,5 +1,4 @@
- 
-+++
+ +++
 
 title = "pps-pvzlike presentation"
 description = "Presentation of the project PvZ Like"
@@ -10,11 +9,10 @@ aliases = [
 
 +++
 
-
 # pps-PvZlike
 ## Project presentation
 
 ---
 
 ## Original game screenshot
-{{<image src=images/pvz>}}
+{{ < image src=images/pvz.jpg >}}
