@@ -1,5 +1,5 @@
-{{- $owner := .Get "owner" | default "DanySK" -}}
-{{- $repo := .Get "repo" | default "Course-Laboratory-of-Software-Systems" -}}
+{{- $owner := .Get "owner" | default "PaoloPenazzi" -}}
+{{- $repo := .Get "repo" | default "pps-pvzlike-presentation" -}}
 {{- $path := .Get "path" | default "README.md" -}}
 {{- $branch := .Get "branch" | default "master" -}}
 {{- $json := getJSON "https://api.github.com/repos/" $owner "/" $repo "/contents/" $path "?ref=" $branch -}}
