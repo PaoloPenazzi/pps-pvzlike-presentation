@@ -16,3 +16,8 @@ aliases = [
 
 ## Original game screenshot
 {{ < image src=images/pvz.jpg >}}
+
+---
+
+## ActorSystem Architecture
+{{ < image src=images/actor-architecture.png >}}
