@@ -16,4 +16,4 @@ aliases = [
 
 ## Screenshot of the original game
 
-{{< image src="assets/pvz.png" h="70" >}}
+![screen](https://github.com/PaoloPenazzi/pps-pvzlike-presentation/blob/master/assets/pvz.png)
