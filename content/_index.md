@@ -16,4 +16,4 @@ aliases = [
 
 ## Screenshot of the original game
 
-{{ < image src=static/pvz.png > }}
+{{ <image src=static/pvz.png> }}
