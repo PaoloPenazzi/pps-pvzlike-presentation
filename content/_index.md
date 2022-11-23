@@ -15,8 +15,7 @@ aliases = [
 ---
 
 ## Screenshot of the original game
-
-<image src="./static/pvz.png">
+![pvz](https://raw.githubusercontent.com/PaoloPenazzi/pps-pvzlike-presentation/master/static/pvz.png)
 
 ---
 
